@@ -21,10 +21,9 @@ os.system("clear")
 os.system("figlet DDOS GoOfY!!")
 os.system("echo Edited by Zaid Yasin credits to Ha3MRX on github")
 print("Author   : HA-MRX")
-print "Editor: Zaid Yasin
-print "You Tube : https://www.youtube.com/channel/UCEat__hSA3c4JuB_qklGngw"
-print "github   : https://github.com/HackerZaidYasin"
-print
+print("Editor: Zaid Yasin)
+print("You Tube : https://www.youtube.com/channel/UCEat__hSA3c4JuB_qklGngw")
+print("github   : https://github.com/HackerZaidYasin")
 ip = raw_input("Target IP--> : ")
 port = input("Port---->       : ")
 
