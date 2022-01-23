@@ -29,15 +29,15 @@ port = input("Port---->       : ")
 
 os.system("clear")
 os.system("figlet ATTACKING!!!")
-print "[                    ] 1"
+print("[                    ] 1")
 time.sleep(5)
-print "[=====               ] 2"
+print("[=====               ] 2")
 time.sleep(5)
-print "[==========          ] 3"
+print("[==========          ] 3")
 time.sleep(5)
-print "[===============     ] 4"
+print("[===============     ] 4")
 time.sleep(5)
-print "[====================] 100000%"
+print("[====================] 100000%")
 time.sleep(3)
 sent = 0
 while True:
